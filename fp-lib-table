@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Futaba)(type KiCad)(uri ${KIPRJMOD}/Futaba.pretty)(options "")(descr ""))
+)
